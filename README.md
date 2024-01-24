@@ -19,7 +19,8 @@
 سعر الاختبار بدون برنامج التدريب الخاص بالشهادة ≈ ٢٠٠ دولار.
 
 او يكمن الحصول على العرض المقدم من INE  ٣ أشهر البرنامج التدريبي مع ٦ أشهر صلاحية الاختبار = ٢٤٩ دولار 
-![image](https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/a9cbaea5-6141-4020-8b4f-b75502dfa3d9)
+
+
 
 # درجة النجاح في الإختبار 
 درجة النجاح في الاختبار ٧٠٪ فأعلى أي حل ٢٥/٣٥ سؤال بشكل صحيح. يرتكز الاختبار على ٤ محاور أساسية وهي:
@@ -28,7 +29,9 @@
 ２-	Host & Network Pentesting  
 ３-	Web Application Pentesting  
 ４-	Host & Network Auditing  
-![image](https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/591dacf4-d472-487f-a6db-cda9782ec451) ![photo_1445-07-12 11 59 40](https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/334ae4f1-67d1-4e21-bd08-8608d63e0803)  
+
+
+![photo_1445-07-12 11 59 40](https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/334ae4f1-67d1-4e21-bd08-8608d63e0803)    
 
 كما موضح في الصورة [1]، كل قسم يحتوي على عدة مهام أساسية يتم التقييم عليها من خلال الإجابة على أسئلة الاختبار.  ![image](https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/37c05ff4-53a1-418c-a1b8-def2a0432809)  
 
