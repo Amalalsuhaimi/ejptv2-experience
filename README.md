@@ -23,3 +23,4 @@
 ４-	Host & Network Auditing  
 ![image](https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/591dacf4-d472-487f-a6db-cda9782ec451)
 
+كما موضح في الصورة [١]، كل قسم يحتوي على عدة مهام أساسية يتم تقييمك عليها من خلال الإجابة على أسئلة الاختبار.  ![image](https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/37c05ff4-53a1-418c-a1b8-def2a0432809)
