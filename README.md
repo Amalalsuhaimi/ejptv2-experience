@@ -30,10 +30,9 @@
 ３-	Web Application Pentesting  
 ４-	Host & Network Auditing  
 
+كما موضح في الصورة [1]، كل قسم يحتوي على عدة مهام أساسية يتم التقييم عليها من خلال الإجابة على أسئلة الاختبار.  
 
 ![photo_1445-07-12 11 59 40](https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/334ae4f1-67d1-4e21-bd08-8608d63e0803)    
-
-كما موضح في الصورة [1]، كل قسم يحتوي على عدة مهام أساسية يتم التقييم عليها من خلال الإجابة على أسئلة الاختبار.  ![image](https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/37c05ff4-53a1-418c-a1b8-def2a0432809)  
 
 
 # التحضير للاختبار  ![image](https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/766ea602-8f76-4f6a-99b8-7f6fd61658d1)
