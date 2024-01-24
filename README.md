@@ -74,6 +74,20 @@ __2-	منصة Tryhackme :__
 
 
 
+__3-	ملاحظات Helpful notes :__
+
+هنا بعض الملاحظات الجاهزة Online  لكل الأدوات المستخدمة في كل مرحلة من مراحل الاختراق موثقة بعضها من قبل مختبرين سابقين مسردة حسب الأهم فالاهم:
+
+
+HackTricks  (https://book.hacktricks.xyz/) 
+
+INE Training Notes (https://blog.syselement.com/ine/)
+
+eJPTv2-CheatSheet (https://sezioss-gitbook.gitbook.io/ejptv2cheatsheet/) 
+
+ejptv2-Notes (https://github.com/PakCyberbot/eJPTv2-Notes) 
+
+AllThingsPayloads (https://github.com/swisskyrepo/PayloadsAllTheThings)  
 
 
 
