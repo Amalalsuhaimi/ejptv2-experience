@@ -21,4 +21,5 @@
 ２-	Host & Network Pentesting  
 ３-	Web Application Pentesting  
 ４-	Host & Network Auditing  
-![image](https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/43abb3c4-04e3-4093-b21c-bb7700e1e452)
+![image](https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/591dacf4-d472-487f-a6db-cda9782ec451)
+
