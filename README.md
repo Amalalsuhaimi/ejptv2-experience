@@ -3,7 +3,7 @@
 ![ejpt_page-0001](https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/f7778cb0-c96d-49e4-be95-a0c96741ce92)
 
 
-#	نبذة مختصرة عن ejptv2 
+#	نبذة مختصرة عن Ejptv2 
 
 اختبار اختراق (عملي) مصمم للمبتدئين في عالم الاختراق. مقدم من INE بالتعاون مع elearnsecurity.
 تحتوي النسخة الثانية من الاختبار علي ٣٥ سؤالاً و مدة الاختبار يومين ( ٤٨ ساعة ) . نوع الاختبار open-book
@@ -14,3 +14,7 @@
 
 او يكمن الحصول على العرض المقدم من INE  ٣ أشهر البرنامج التدريبي مع ٦ أشهر صلاحية الاختبار = ٢٤٩ دولار 
 ![image](https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/a9cbaea5-6141-4020-8b4f-b75502dfa3d9)
+
+# درجة النجاح في الإختبار 
+درجة النجاح في الاختبار ٧٠٪ فأعلى أي حل ٢٥/٣٥ سؤال بشكل صحيح. يرتكز الاختبار على ٤ محاور أساسية وهي:
+![image](https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/737b14b6-3e18-4c6e-b79c-be0337e57948)
