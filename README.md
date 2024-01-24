@@ -58,6 +58,8 @@ __１-	البرنامج التدريبي من (PTS) INE :__
 <img width="1214" alt="Screenshot 1445-07-12 at 5 58 40 PM" src="https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/046bf47d-a67f-40e2-9248-c6ffedb43cac"> 
 
 
+__2-	منصة Tryhackme :__      
+
 
 
 
