@@ -58,6 +58,8 @@ __１-	البرنامج التدريبي من (PTS) INE :__
 <img width="1214" alt="Screenshot 1445-07-12 at 5 58 40 PM" src="https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/046bf47d-a67f-40e2-9248-c6ffedb43cac">   
 
 
+<img width="1035" alt="Screenshot 1445-07-12 at 7 05 19 PM" src="https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/34f38db8-760c-43b5-88b4-ade27e4807a3">
+
 
 
 
