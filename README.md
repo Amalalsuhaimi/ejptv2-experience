@@ -55,7 +55,9 @@ __１-	البرنامج التدريبي من (PTS) INE :__
 3- مابعد استغلال الثغرة Post Exploitation  
 
 
-<img width="1214" alt="Screenshot 1445-07-12 at 5 58 40 PM" src="https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/046bf47d-a67f-40e2-9248-c6ffedb43cac"> 
+<img width="1214" alt="Screenshot 1445-07-12 at 5 58 40 PM" src="https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/046bf47d-a67f-40e2-9248-c6ffedb43cac">   
+
+
 
 
 
@@ -65,6 +67,9 @@ __2-	منصة Tryhackme :__
 توفر هذه المنصة شروحات و لابز مجانية لممارسة بعض الموضوعات المتعلقة بإختبار الاختراق. الصورة [٣] توضح جميع اللابزالمطلوب معرفتها و التعلم منها بالإضافة  إلى لابز اخرى CTF لممارسة و تطبيق ما تم تعلمه في شروحات المنصة. 
 
 صفحة منصة tryhackme  ( https://tryhackme.com/ ) 
+
+
+
 
 
 
