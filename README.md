@@ -59,7 +59,7 @@ __１-	البرنامج التدريبي من (PTS) INE :__
 3- مابعد استغلال الثغرة Post Exploitation  
 
 
-<img width="1038" alt="Screenshot 1445-07-22 at 8 08 20 PM" src="https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/b18aa11f-76df-485b-a0b0-72ae07f63806">
+<img width="1038" alt="Screenshot 1445-07-22 at 8 08 20 PM" src="https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/d93e043a-c6e5-46fe-a0e8-fa58c13acb1f">
 
 <img width="1214" alt="Screenshot 1445-07-12 at 5 58 40 PM" src="https://github.com/Amalalsuhaimi/ejptv2-experience/assets/56334190/046bf47d-a67f-40e2-9248-c6ffedb43cac">   
 
